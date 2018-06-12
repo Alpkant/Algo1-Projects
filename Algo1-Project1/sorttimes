@@ -1,0 +1,15 @@
+10k full insertion  2339.2 milliseconds
+100k full insertion 20436 milliseconds
+1M full insertion   4080246 milliseconds
+
+10k full merge 46.01 milliseconds
+100k full merge 568.33 milliseconds
+1M full merge 7089.32 milliseconds
+
+10k filter insertion 938.612 milliseconds
+100k filter insertion 120176 milliseconds
+1M filter insertion  3080246 milliseconds
+
+10k filter merge 40.162 milliseconds
+100k filter merge 523.937 milliseconds
+1M filter merge 5763.94 milliseconds
